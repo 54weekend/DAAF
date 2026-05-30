@@ -1,0 +1,12 @@
+numpy
+torch
+torchvision
+opencv-python
+pillow
+tqdm
+matplotlib
+scipy
+tensorboard
+pycocotools
+onnx
+onnxsim
